@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "Carlos Eduardo Silva",
+        "documento": "123.456.789-00",
+        "cep": "01310-100",
+        "ip": "189.40.12.85",
+        "mac": "B4:2E:99:A1:4F:22",
+        "lat": -23.564886,
+        "lon": -46.651918,
+        "endereco": "Avenida Paulista, 1000, Sao Paulo - SP",
+        "status": "ONLINE",
+        "foto": "",
+        "hora": "18:30:15",
+        "aprovado": true,
+        "tipo": "MONITORADO",
+        "cliente_adm": "Osvaldo"
+    },
+    {
+        "nome": "Osvaldo",
+        "documento": "12347575849",
+        "cep": "647483939",
+        "tipo": "CLIENTE",
+        "cliente_adm": "ADM Master",
+        "aprovado": true,
+        "ip": "2804:14d:ba46:8584:a8ea:c65b:3c16:51a0",
+        "mac": "88:6F:D4:FC:9E:5E",
+        "lat": -27.817453386150316,
+        "lon": -50.33687257207181,
+        "endereco": "Rua São Joaquim, Copacabana, Lages, Santa Catarina, Região Sul, 88501-001, Brasil",
+        "status": "ONLINE",
+        "foto_b64": "",
+        "hora": "19:59:31"
+    },
+    {
+        "nome": "Marc",
+        "documento": "000000000000",
+        "cep": "",
+        "tipo": "MONITORADO",
+        "cliente_adm": "ADM Master",
+        "aprovado": true,
+        "ip": "2804:14d:ba46:8584:dfbe:b268:d946:6e2b",
+        "mac": "88:6F:D4:FC:9E:5E",
+        "lat": -27.817410089574306,
+        "lon": -50.33692613185658,
+        "endereco": "Rua São Joaquim, Centro, Lages, Santa Catarina, Região Sul, 88501-001, Brasil",
+        "status": "ONLINE",
+        "foto_b64": "",
+        "hora": "16:04:59"
+    }
+]
